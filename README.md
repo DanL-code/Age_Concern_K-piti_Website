@@ -1,2 +1,8 @@
-# Age_Concern_K-piti_Website
-Volunteering group project to optimize the UI, manageability, and accessibility of the official Age Concern Kāpiti website. Prepared for imminent release.
+# Age_Concern_Kapiti_Website
+Volunteering group project to optimize the UI, manageability, and accessibility of the official Age Concern Kāpiti website. Built on WordPress and uses several plugins to enable functionalities such as donations and membership fee payment. Implementation includes the Toggle Font Size feature, uploading PDF newsletters, displaying posts on the homepage, and other functions.
+
+Current staging url: https://staging4.ageconcernkapiti.co.nz
+
+Prepared for imminent release. Details of the project can be found in the presentation slides.
+
+
