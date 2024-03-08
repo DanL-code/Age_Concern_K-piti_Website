@@ -5,4 +5,6 @@ Current staging url: https://staging4.ageconcernkapiti.co.nz
 
 Prepared for imminent release. Details of the project can be found in the presentation slides.
 
+![encrypt-decrypt](https://github.com/DanL-code/Age_Concern_Kapiti_Website/blob/main/Age-concern-kapiti-screenshot.png)
+
 
